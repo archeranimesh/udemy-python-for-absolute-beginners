@@ -6,4 +6,3 @@ This repository is my notes from my learning of following Mark Winterbottom's co
 My understanding of copyright laws is limited and hence if this process of making notes from books and publishing in Github in any way violates and such laws kindly contact me for removing the content.
 
 I am giving all necessary reference and credits for these notes.
-
