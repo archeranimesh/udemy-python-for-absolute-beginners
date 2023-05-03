@@ -4,11 +4,9 @@
 In this course we will learn about Python and its very usecase. This course will cover.
 
 1. Introduction
-2. Machine Setup
-
-    2.1. VsCode Setp.
+2. Machine Setup  
+    2.1. VsCode Setp.  
     2.2. Python Interpreter Setup.
-
 3. Command Line
 4. Python Basics
 5. String Manipulation
